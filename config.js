@@ -25,8 +25,8 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //----------------------------------------------------------------------------
 
-global.mods = ['24105114159'] 
-global.prems = ['24105114159']
+global.mods = ['242064568501'] 
+global.prems = ['242064568501']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -60,19 +60,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙽𝙰 𝙼𝙳'
+global.botname = '✦⃝᭄̮̮̮̯̯̯ꦿ𝐊⟁𝐑𝐌⟁ ᭄ꦿ𝐋𝐔𝐂𝚰𝐅𝚵𝚪𝚯'
 global.premium = 'true'
-global.packname = '𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸' 
-global.author = '𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙽𝙰 𝙼𝙳' 
+global.packname = '𝐋𝐔𝐂𝚰𝐅𝚵𝚪𝚯' 
+global.author = 'Karma Stark' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/lawliet.kfx\n' 
-global.dygp = 'https://chat.whatsapp.com/GpsTju4MUAbJmmZhHU8zAR'
-global.fgsc = 'https://github.com/toge012345/QUEEN-ANNA' 
-global.fgyt = 'https://youtube.com/@kenzo3146'
-global.fgpyp = 'https://youtube.com/@kenzo3146'
-global.fglog = 'ANNA.jpg' 
+global.dygp = 'https://chat.whatsapp.com/'Karma'
+global.fgsc = 'https://github.com/@karma6969'
+global.fgyt = 'https://youtube.com/@karma6969'
+global.fgpyp = 'https://youtube.com/@karma6969'
+global.fglog = 'KARMA.jpg' 
 
 //imagen
-global.imagen1 = fs.readFileSync('./Assets/ANNA.jpg')
+global.imagen1 = fs.readFileSync'𝐋𝐔𝐂𝚰𝐅𝚵𝚪𝚯'
 
 //Dont Edit Danger Zone⚠️
 global.wait = '*⌛ _Please Wait..._*'
